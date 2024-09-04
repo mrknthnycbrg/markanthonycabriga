@@ -11,7 +11,7 @@
 		<div class="hero-content flex-col lg:flex-row-reverse">
 			<img
 				src="/images/Cabriga, MA.jpg"
-				class="aspect-square max-h-80 max-w-full rounded-md object-cover"
+				class="aspect-square max-h-80 max-w-full rounded-sm object-cover"
 				alt="Mark Anthony Cabriga"
 			/>
 			<div>

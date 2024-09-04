@@ -10,7 +10,7 @@
 	<h1>Contact</h1>
 	<p>Feel free to get in touch for any questions, collaborations, or just to say hi!</p>
 	<div class="grid grid-cols-1 gap-8 lg:grid-cols-4">
-		<div class="card w-full border bg-base-100">
+		<div class="card card-bordered w-full bg-base-100">
 			<div class="card-body">
 				<h2 class="card-title">Email</h2>
 				<div class="card-actions">
@@ -20,7 +20,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="card w-full border bg-base-100">
+		<div class="card card-bordered w-full bg-base-100">
 			<div class="card-body">
 				<h2 class="card-title">GitHub</h2>
 				<div class="card-actions">
@@ -30,7 +30,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="card w-full border bg-base-100">
+		<div class="card card-bordered w-full bg-base-100">
 			<div class="card-body">
 				<h2 class="card-title">LinkedIn</h2>
 				<div class="card-actions">
@@ -40,7 +40,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="card w-full border bg-base-100">
+		<div class="card card-bordered w-full bg-base-100">
 			<div class="card-body">
 				<h2 class="card-title">Facebook</h2>
 				<div class="card-actions">
