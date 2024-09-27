@@ -12,7 +12,7 @@
 		I'm a Laravel developer dedicated to creating efficient and innovative web solutions. I
 		specialize in different languages, leveraging various frameworks, databases, and development
 		tools to deliver high-quality results. Currently, I'm working as an Associate Web Developer at
-		Open iT Philippines, Inc.
+		OpeniT Asia, Inc. - Philippine Branch.
 	</p>
 	<h2>Skills</h2>
 	<div class="grid grid-cols-1 gap-8 lg:grid-cols-4">
