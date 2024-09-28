@@ -10,7 +10,7 @@
 	<div class="hero">
 		<div class="hero-content flex-col lg:flex-row-reverse">
 			<img
-				src="/images/Cabriga, MA.jpg"
+				src="/images/profile.jpg"
 				class="aspect-square max-h-80 max-w-full rounded-sm object-cover"
 				alt="Mark Anthony Cabriga"
 			/>
