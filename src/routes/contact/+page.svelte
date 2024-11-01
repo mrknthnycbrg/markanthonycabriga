@@ -14,19 +14,11 @@
 			<div class="card-body">
 				<h2 class="card-title">Email</h2>
 				<div class="card-actions">
-					<a class="btn btn-primary text-base" href="mailto:macabriga@gmail.com"
-						>macabriga@gmail.com</a
-					>
-				</div>
-			</div>
-		</div>
-		<div class="card card-bordered w-full bg-base-100">
-			<div class="card-body">
-				<h2 class="card-title">GitHub</h2>
-				<div class="card-actions">
-					<a class="btn btn-primary text-base" href="https://github.com/mrknthnycbrg"
-						>mrknthnycbrg</a
-					>
+					<div class="not-prose">
+						<a class="btn btn-primary text-base" href="mailto:macabriga@gmail.com"
+							>macabriga@gmail.com</a
+						>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -34,9 +26,23 @@
 			<div class="card-body">
 				<h2 class="card-title">LinkedIn</h2>
 				<div class="card-actions">
-					<a class="btn btn-primary text-base" href="https://www.linkedin.com/in/macabriga"
-						>Mark Anthony Cabriga</a
-					>
+					<div class="not-prose">
+						<a class="btn btn-primary text-base" href="https://www.linkedin.com/in/macabriga"
+							>macabriga</a
+						>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="card card-bordered w-full bg-base-100">
+			<div class="card-body">
+				<h2 class="card-title">GitHub</h2>
+				<div class="card-actions">
+					<div class="not-prose">
+						<a class="btn btn-primary text-base" href="https://github.com/mrknthnycbrg"
+							>mrknthnycbrg</a
+						>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -44,9 +50,11 @@
 			<div class="card-body">
 				<h2 class="card-title">Facebook</h2>
 				<div class="card-actions">
-					<a class="btn btn-primary text-base" href="https://www.facebook.com/mrknthnycbrg"
-						>Mark Anthony Cabriga</a
-					>
+					<div class="not-prose">
+						<a class="btn btn-primary text-base" href="https://www.facebook.com/mrknthnycbrg"
+							>Mark Anthony Cabriga</a
+						>
+					</div>
 				</div>
 			</div>
 		</div>

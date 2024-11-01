@@ -18,7 +18,9 @@
 					Research and Development Services office of Dalubhasaan ng Lungsod ng Lucena.
 				</p>
 				<div class="card-actions">
-					<a class="btn btn-primary text-base" href="https://dll-crds.com">Visit Website</a>
+					<div class="not-prose">
+						<a class="btn btn-primary text-base" href="https://dll-crds.com">Visit Website</a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -31,9 +33,12 @@
 					Development Services office of Dalubhasaan ng Lungsod ng Lucena.
 				</p>
 				<div class="card-actions">
-					<a class="btn btn-primary text-base" href="https://github.com/mrknthnycbrg/dll-crds-test"
-						>View on GitHub</a
-					>
+					<div class="not-prose">
+						<a
+							class="btn btn-primary text-base"
+							href="https://github.com/mrknthnycbrg/dll-crds-test">View on GitHub</a
+						>
+					</div>
 				</div>
 			</div>
 		</div>
