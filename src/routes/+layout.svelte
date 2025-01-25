@@ -1,17 +1,17 @@
 <script lang="ts">
 	import '../app.css';
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 	import Navbar from '$lib/components/Navbar.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 	let { children } = $props();
 </script>
 
 <svelte:head>
-	<title>{$page.data.seo.title || 'Mark Anthony Cabriga'}</title>
+	<title>{page.data.seo.title || 'Mark Anthony Cabriga'}</title>
 	<meta
 		name="description"
-		content={$page.data.seo.content ||
-			'A Laravel developer creating efficient and innovative web solutions with Laravel.'}
+		content={page.data.seo.content ||
+			'A web developer creating efficient and innovative web solutions.'}
 	/>
 </svelte:head>
 

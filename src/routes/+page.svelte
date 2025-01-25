@@ -15,13 +15,8 @@
 				alt="Mark Anthony Cabriga"
 			/>
 			<div>
-				<h1>Hi! I'm Mark Anthony Cabriga, a Laravel developer.</h1>
-				<p>Creating efficient and innovative web solutions with Laravel.</p>
-				<div class="not-prose">
-					<a href="/files/Cabriga, MA - CV.pdf" class="btn btn-primary text-base" download>
-						Download CV
-					</a>
-				</div>
+				<h1>Hi! I'm Mark Anthony Cabriga, a web developer.</h1>
+				<p>Creating efficient and innovative web solutions.</p>
 			</div>
 		</div>
 	</div>

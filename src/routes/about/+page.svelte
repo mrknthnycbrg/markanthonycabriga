@@ -9,9 +9,9 @@
 >
 	<h1>About</h1>
 	<p>
-		I'm a Laravel developer dedicated to creating efficient and innovative web solutions. I
-		specialize in different languages, leveraging various frameworks, databases, and development
-		tools to deliver high-quality results.
+		I'm a web developer dedicated to creating efficient and innovative web solutions. I specialize
+		in different languages, leveraging various frameworks, databases, and development tools to
+		deliver high-quality results.
 	</p>
 	<h2>Experience</h2>
 	<div class="card card-bordered w-full bg-base-100">

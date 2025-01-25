@@ -4,7 +4,7 @@ export const load = (async () => {
 	return {
 		seo: {
 			title: 'Mark Anthony Cabriga',
-			content: 'A Laravel developer creating efficient and innovative web solutions with Laravel.'
+			content: 'A web developer creating efficient and innovative web solutions.'
 		}
 	};
 }) satisfies PageLoad;
